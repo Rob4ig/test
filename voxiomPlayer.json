@@ -1,0 +1,280 @@
+{
+    "authenticated": true,
+    "data": {
+        "nickname": "TheMasterRob4ig",
+        "has_nickname": true,
+        "creation_time": 1635355382892,
+        "level": 150,
+        "xp": 11898,
+        "gems": 1060,
+        "score": 817123,
+        "rewarded_ad_eligible": false,
+        "br": {
+            "total_games_played": 554,
+            "total_games_won": 229,
+            "total_kills": 2229,
+            "total_deaths": 292,
+            "total_survival_time": 131027,
+            "total_score": 171315,
+            "matches": [
+                {
+                    "match_id": "7568881f-dded-4104-9cc3-508a9e88d033",
+                    "time": "2023-08-25T10:49:33.682Z",
+                    "num_players": 9,
+                    "duration": 299,
+                    "rank": 1,
+                    "kills": 6,
+                    "deaths": 0,
+                    "survival_time": 299,
+                    "score": 258
+                },
+                {
+                    "match_id": "772a4285-cc6e-46b1-a854-28f696681429",
+                    "time": "2023-08-25T06:46:08.352Z",
+                    "num_players": 9,
+                    "duration": 391,
+                    "rank": 1,
+                    "kills": 7,
+                    "deaths": 0,
+                    "survival_time": 391,
+                    "score": 283
+                },
+                {
+                    "match_id": "803a2d1a-4e7b-4a91-9818-62161c332914",
+                    "time": "2023-08-24T15:24:36.061Z",
+                    "num_players": 11,
+                    "duration": 315,
+                    "rank": 1,
+                    "kills": 6,
+                    "deaths": 0,
+                    "survival_time": 315,
+                    "score": 683
+                },
+                {
+                    "match_id": "c154b99e-afb2-48ad-90d4-5f0ef7197149",
+                    "time": "2023-08-24T14:21:15.307Z",
+                    "num_players": 15,
+                    "duration": 394,
+                    "rank": 6,
+                    "kills": 4,
+                    "deaths": 0,
+                    "survival_time": 149,
+                    "score": 79
+                },
+                {
+                    "match_id": "274022e8-9ce3-452f-b0e0-8b18570ec6ff",
+                    "time": "2023-08-24T06:52:59.071Z",
+                    "num_players": 12,
+                    "duration": 373,
+                    "rank": 1,
+                    "kills": 7,
+                    "deaths": 0,
+                    "survival_time": 373,
+                    "score": 709
+                },
+                {
+                    "match_id": "0da0bbb9-facb-454d-bd6f-a96cf9237c6d",
+                    "time": "2023-08-23T17:42:26.782Z",
+                    "num_players": 12,
+                    "duration": 442,
+                    "rank": 7,
+                    "kills": 2,
+                    "deaths": 1,
+                    "survival_time": 152,
+                    "score": 70
+                },
+                {
+                    "match_id": "54d5ca70-e79e-41e1-a85f-d1c658cc96c5",
+                    "time": "2023-08-23T07:10:17.276Z",
+                    "num_players": 8,
+                    "duration": 383,
+                    "rank": 1,
+                    "kills": 5,
+                    "deaths": 0,
+                    "survival_time": 383,
+                    "score": 256
+                },
+                {
+                    "match_id": "fb1f6382-232d-4094-99d2-c2074f02ae68",
+                    "time": "2023-08-22T19:07:10.541Z",
+                    "num_players": 10,
+                    "duration": 257,
+                    "rank": 2,
+                    "kills": 4,
+                    "deaths": 1,
+                    "survival_time": 257,
+                    "score": 373
+                },
+                {
+                    "match_id": "805ab47b-b130-45d1-8ef5-a83a6e1168d7",
+                    "time": "2023-08-22T08:18:09.821Z",
+                    "num_players": 14,
+                    "duration": 277,
+                    "rank": 1,
+                    "kills": 8,
+                    "deaths": 0,
+                    "survival_time": 277,
+                    "score": 701
+                },
+                {
+                    "match_id": "935fbc62-987b-4769-ac3f-39bb22936a3e",
+                    "time": "2023-08-22T07:41:13.620Z",
+                    "num_players": 15,
+                    "duration": 350,
+                    "rank": 1,
+                    "kills": 9,
+                    "deaths": 0,
+                    "survival_time": 350,
+                    "score": 687
+                }
+            ]
+        },
+        "ctg": {
+            "total_games_played": 929,
+            "total_games_won": 603,
+            "total_kills": 19625,
+            "total_deaths": 770,
+            "total_captures": 502,
+            "total_score": 627566,
+            "matches": [
+                {
+                    "match_id": "20f3cfcc-a2c1-421f-a57c-1239e3d6eff5",
+                    "time": "2023-08-25T10:56:49.612Z",
+                    "map_name": "Bulwark",
+                    "duration": 467,
+                    "team1_score": 14,
+                    "team2_score": 101,
+                    "victory": true,
+                    "kills": 21,
+                    "deaths": 0,
+                    "captures": 1,
+                    "score": 801
+                },
+                {
+                    "match_id": "8158fb3d-aed2-4abe-a682-5523ac7131a4",
+                    "time": "2023-08-25T05:51:22.778Z",
+                    "map_name": "Bulwark",
+                    "duration": 878,
+                    "team1_score": 116,
+                    "team2_score": 22,
+                    "victory": true,
+                    "kills": 24,
+                    "deaths": 0,
+                    "captures": 0,
+                    "score": 523
+                },
+                {
+                    "match_id": "07fd82b2-8df0-4059-99b9-d9f03fbd3d68",
+                    "time": "2023-08-25T05:26:50.301Z",
+                    "map_name": "Riverdale",
+                    "duration": 663,
+                    "team1_score": 15,
+                    "team2_score": 120,
+                    "victory": true,
+                    "kills": 9,
+                    "deaths": 0,
+                    "captures": 1,
+                    "score": 533
+                },
+                {
+                    "match_id": "4f2cc84b-1e8d-4a4b-b027-be993131dd93",
+                    "time": "2023-08-24T16:59:00.823Z",
+                    "map_name": "Bulwark",
+                    "duration": 910,
+                    "team1_score": 105,
+                    "team2_score": 77,
+                    "victory": false,
+                    "kills": 16,
+                    "deaths": 0,
+                    "captures": 1,
+                    "score": 609
+                },
+                {
+                    "match_id": "9d9838bb-da2f-4410-b847-3745061016da",
+                    "time": "2023-08-24T06:41:05.815Z",
+                    "map_name": "Bulwark",
+                    "duration": 897,
+                    "team1_score": 42,
+                    "team2_score": 127,
+                    "victory": true,
+                    "kills": 33,
+                    "deaths": 1,
+                    "captures": 0,
+                    "score": 1031
+                },
+                {
+                    "match_id": "f44a7eab-859e-4614-b0f4-9e8bbeffb788",
+                    "time": "2023-08-24T06:29:15.669Z",
+                    "map_name": "Riverdale",
+                    "duration": 743,
+                    "team1_score": 35,
+                    "team2_score": 127,
+                    "victory": true,
+                    "kills": 50,
+                    "deaths": 0,
+                    "captures": 1,
+                    "score": 1803
+                },
+                {
+                    "match_id": "382a1b76-fdfa-4e2e-ad40-0b94c1680d4c",
+                    "time": "2023-08-23T17:51:56.049Z",
+                    "map_name": "Riverdale",
+                    "duration": 891,
+                    "team1_score": 25,
+                    "team2_score": 121,
+                    "victory": true,
+                    "kills": 46,
+                    "deaths": 0,
+                    "captures": 1,
+                    "score": 1457
+                },
+                {
+                    "match_id": "ed271e3e-88bb-4752-b529-7653f07b4b43",
+                    "time": "2023-08-23T11:38:16.929Z",
+                    "map_name": "Oasis",
+                    "duration": 653,
+                    "team1_score": 120,
+                    "team2_score": 32,
+                    "victory": true,
+                    "kills": 25,
+                    "deaths": 0,
+                    "captures": 1,
+                    "score": 944
+                },
+                {
+                    "match_id": "878e078b-9d28-4510-8a2d-ca6d0de70727",
+                    "time": "2023-08-22T19:20:36.220Z",
+                    "map_name": "Oasis",
+                    "duration": 812,
+                    "team1_score": 115,
+                    "team2_score": 29,
+                    "victory": true,
+                    "kills": 39,
+                    "deaths": 1,
+                    "captures": 1,
+                    "score": 1202
+                },
+                {
+                    "match_id": "87ec87ee-1e15-4a22-88ee-dc1e41d91e14",
+                    "time": "2023-08-22T19:01:38.139Z",
+                    "map_name": "Riverdale",
+                    "duration": 782,
+                    "team1_score": 105,
+                    "team2_score": 28,
+                    "victory": true,
+                    "kills": 22,
+                    "deaths": 1,
+                    "captures": 1,
+                    "score": 766
+                }
+            ]
+        },
+        "friend_status": 0,
+        "permissions": [],
+        "clan": {
+            "clan_id": 1036,
+            "name": "No Mercy",
+            "tag": "Nm"
+        }
+    }
+}
