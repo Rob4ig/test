@@ -1,0 +1,73 @@
+{
+    "_id": "64926218578386adbd36f8e4",
+    "subId": "4ca11352-cdfe-4d64-bed6-d840d1558651",
+    "name": "TheMasterRob4ig",
+    "canChangeName": false,
+    "lvl": 13,
+    "exp": 15714,
+    "expSinceLastLvl": 414,
+    "expUntilNextLvl": 2300,
+    "achievements": {
+        "emblems": [
+            {
+                "id": "1",
+                "isSelected": false
+            },
+            {
+                "id": "6",
+                "isSelected": false
+            },
+            {
+                "id": "7",
+                "isSelected": true
+            },
+            {
+                "id": "2",
+                "isSelected": false
+            },
+            {
+                "id": "3",
+                "isSelected": false
+            }
+        ],
+        "backgrounds": [
+            {
+                "id": "26",
+                "isSelected": true
+            }
+        ]
+    },
+    "balance": {
+        "diamit": 100,
+        "gear": 0,
+        "terra": 70,
+        "credit": 212
+    },
+    "earlyAccess": true,
+    "role": "User",
+    "createdAt": "2023-06-21T02:36:08.201Z",
+    "updatedAt": "2023-08-27T10:48:00.584Z",
+    "__v": 0,
+    "lastCreditReceived": "2023-08-27T05:32:48.917Z",
+    "stats": {
+        "games": 114,
+        "wins": 67,
+        "scores": 90535,
+        "kills": 1290,
+        "deaths": 576,
+        "assists": 107,
+        "headshots": 842,
+        "scopeKills": 0,
+        "sniperScopeKills": 104,
+        "jumpKills": 88,
+        "doubleKills": 275,
+        "tripleKills": 172,
+        "quadKills": 119,
+        "multiKills": 91,
+        "ultraKills": 55,
+        "timeInMatches": 21802824,
+        "portWins": 44,
+        "hangarWins": 23,
+        "jailWins": 0
+    }
+}
