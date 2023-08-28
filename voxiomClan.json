@@ -1,0 +1,288 @@
+{
+    "success": true,
+    "data": {
+        "clan_id": 1036,
+        "name": "No Mercy",
+        "tag": "Nm",
+        "description": "What's Up Homies! | We Shall Kill The Weak Voxiom Players | Recruit The Skilled! | Goal Top 3 In Clan Wars 💪 | Ally Clan - IT | YouTube Channel Name: No Mercy[Nm]",
+        "gems": 0,
+        "level": 1,
+        "level_requirement": 10,
+        "recruitment_mode": 1,
+        "creation_time": 1659566194138,
+        "discord_invite": "644EaCpGwT",
+        "player_role": 2,
+        "members": [
+            {
+                "player_id": 1040341,
+                "name": "_Cupid_",
+                "level": 97,
+                "role": 3
+            },
+            {
+                "player_id": 11098,
+                "name": "VoxiomCriminal",
+                "level": 262,
+                "role": 2
+            },
+            {
+                "player_id": 20491,
+                "name": "blueberrywaffles",
+                "level": 127,
+                "role": 2
+            },
+            {
+                "player_id": 29413,
+                "name": "Sadness_Nm",
+                "level": 180,
+                "role": 2
+            },
+            {
+                "player_id": 42996,
+                "name": "Bobisthatyou_YT",
+                "level": 162,
+                "role": 2
+            },
+            {
+                "player_id": 66791,
+                "name": "_Alisug_",
+                "level": 177,
+                "role": 2
+            },
+            {
+                "player_id": 157703,
+                "name": "Voxiom_GAMING",
+                "level": 107,
+                "role": 2
+            },
+            {
+                "player_id": 1524,
+                "name": "Spicy",
+                "level": 175,
+                "role": 2
+            },
+            {
+                "player_id": 417145,
+                "name": "pleasewait",
+                "level": 107,
+                "role": 2
+            },
+            {
+                "player_id": 588865,
+                "name": "Assault_",
+                "level": 191,
+                "role": 2
+            },
+            {
+                "player_id": 666315,
+                "name": "SD_Hades",
+                "level": 139,
+                "role": 2
+            },
+            {
+                "player_id": 817704,
+                "name": "TheMasterRob4ig",
+                "level": 151,
+                "role": 2
+            },
+            {
+                "player_id": 969124,
+                "name": "hinym",
+                "level": 143,
+                "role": 2
+            },
+            {
+                "player_id": 1051304,
+                "name": "Bearrr",
+                "level": 146,
+                "role": 2
+            },
+            {
+                "player_id": 1060668,
+                "name": "mr_breadalith",
+                "level": 133,
+                "role": 2
+            },
+            {
+                "player_id": 1636934,
+                "name": "the_biggest_fan",
+                "level": 27,
+                "role": 2
+            },
+            {
+                "player_id": 2115752,
+                "name": "MaD_",
+                "level": 78,
+                "role": 2
+            },
+            {
+                "player_id": 1666606,
+                "name": "DanielM",
+                "level": 110,
+                "role": 1
+            },
+            {
+                "player_id": 608915,
+                "name": "Bluetti",
+                "level": 100,
+                "role": 1
+            },
+            {
+                "player_id": 1962996,
+                "name": "_Lion_",
+                "level": 58,
+                "role": 1
+            },
+            {
+                "player_id": 764871,
+                "name": "MOI_PIP-IOFFICIAL",
+                "level": 196,
+                "role": 1
+            },
+            {
+                "player_id": 781115,
+                "name": "JUMBLE",
+                "level": 151,
+                "role": 1
+            },
+            {
+                "player_id": 2758137,
+                "name": "RuLiNg",
+                "level": 56,
+                "role": 1
+            },
+            {
+                "player_id": 860143,
+                "name": "Tonynene",
+                "level": 189,
+                "role": 1
+            },
+            {
+                "player_id": 874862,
+                "name": "korsox",
+                "level": 106,
+                "role": 1
+            },
+            {
+                "player_id": 895790,
+                "name": "IrisBlaze",
+                "level": 191,
+                "role": 1
+            },
+            {
+                "player_id": 898970,
+                "name": "Kaito_",
+                "level": 171,
+                "role": 1
+            },
+            {
+                "player_id": 2204884,
+                "name": "hhhhhhhhhhhhhhh4",
+                "level": 108,
+                "role": 1
+            },
+            {
+                "player_id": 184358,
+                "name": "ISO_Razer",
+                "level": 105,
+                "role": 1
+            },
+            {
+                "player_id": 2624264,
+                "name": "-The_One-",
+                "level": 31,
+                "role": 1
+            },
+            {
+                "player_id": 2662915,
+                "name": "kawa_Nm_",
+                "level": 49,
+                "role": 1
+            },
+            {
+                "player_id": 548223,
+                "name": "VIVI101",
+                "level": 115,
+                "role": 1
+            },
+            {
+                "player_id": 584568,
+                "name": "-Bot-",
+                "level": 154,
+                "role": 1
+            },
+            {
+                "player_id": 1288084,
+                "name": "trymeorlose",
+                "level": 147,
+                "role": 1
+            },
+            {
+                "player_id": 1442500,
+                "name": "-Hakao-",
+                "level": 48,
+                "role": 1
+            },
+            {
+                "player_id": 1470291,
+                "name": "master101",
+                "level": 89,
+                "role": 1
+            },
+            {
+                "player_id": 186533,
+                "name": null,
+                "level": 166,
+                "role": 1
+            },
+            {
+                "player_id": 261734,
+                "name": "OPS-37",
+                "level": 130,
+                "role": 1
+            },
+            {
+                "player_id": 325914,
+                "name": "omerHDpro",
+                "level": 119,
+                "role": 1
+            },
+            {
+                "player_id": 329687,
+                "name": "YB_YouseFBraine",
+                "level": 167,
+                "role": 1
+            },
+            {
+                "player_id": 330945,
+                "name": "King_voiom_io",
+                "level": 160,
+                "role": 1
+            },
+            {
+                "player_id": 2732134,
+                "name": "XSL",
+                "level": 46,
+                "role": 1
+            },
+            {
+                "player_id": 451687,
+                "name": "LoneWolf64",
+                "level": 137,
+                "role": 1
+            },
+            {
+                "player_id": 1068862,
+                "name": "Faye_",
+                "level": 140,
+                "role": 0
+            },
+            {
+                "player_id": 1410979,
+                "name": "PaulTheBlock",
+                "level": 120,
+                "role": 0
+            }
+        ]
+    }
+}
