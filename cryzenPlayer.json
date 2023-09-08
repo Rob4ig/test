@@ -3,10 +3,10 @@
     "subId": "4ca11352-cdfe-4d64-bed6-d840d1558651",
     "name": "TheMasterRob4ig",
     "canChangeName": false,
-    "lvl": 13,
-    "exp": 15714,
-    "expSinceLastLvl": 414,
-    "expUntilNextLvl": 2300,
+    "lvl": 21,
+    "exp": 37910,
+    "expSinceLastLvl": 85,
+    "expUntilNextLvl": 3350,
     "achievements": {
         "emblems": [
             {
@@ -19,7 +19,7 @@
             },
             {
                 "id": "7",
-                "isSelected": true
+                "isSelected": false
             },
             {
                 "id": "2",
@@ -28,11 +28,39 @@
             {
                 "id": "3",
                 "isSelected": false
+            },
+            {
+                "id": "8",
+                "isSelected": true
             }
         ],
         "backgrounds": [
             {
                 "id": "26",
+                "isSelected": false
+            },
+            {
+                "id": "22",
+                "isSelected": false
+            },
+            {
+                "id": "19",
+                "isSelected": false
+            },
+            {
+                "id": "27",
+                "isSelected": false
+            },
+            {
+                "id": "16",
+                "isSelected": false
+            },
+            {
+                "id": "13",
+                "isSelected": false
+            },
+            {
+                "id": "33",
                 "isSelected": true
             }
         ]
@@ -40,34 +68,35 @@
     "balance": {
         "diamit": 100,
         "gear": 0,
-        "terra": 70,
-        "credit": 212
+        "terra": 514,
+        "credit": 305
     },
     "earlyAccess": true,
     "role": "User",
     "createdAt": "2023-06-21T02:36:08.201Z",
-    "updatedAt": "2023-08-27T10:48:00.584Z",
+    "updatedAt": "2023-09-08T18:03:13.491Z",
     "__v": 0,
-    "lastCreditReceived": "2023-08-27T05:32:48.917Z",
+    "lastCreditReceived": "2023-09-08T13:37:23.043Z",
     "stats": {
-        "games": 114,
-        "wins": 67,
-        "scores": 90535,
-        "kills": 1290,
-        "deaths": 576,
-        "assists": 107,
-        "headshots": 842,
+        "games": 289,
+        "wins": 192,
+        "scores": 302760,
+        "kills": 4069,
+        "deaths": 1147,
+        "assists": 247,
+        "headshots": 2990,
         "scopeKills": 0,
-        "sniperScopeKills": 104,
-        "jumpKills": 88,
-        "doubleKills": 275,
-        "tripleKills": 172,
-        "quadKills": 119,
-        "multiKills": 91,
-        "ultraKills": 55,
-        "timeInMatches": 21802824,
-        "portWins": 44,
-        "hangarWins": 23,
-        "jailWins": 0
+        "sniperScopeKills": 119,
+        "jumpKills": 200,
+        "doubleKills": 761,
+        "tripleKills": 567,
+        "quadKills": 439,
+        "multiKills": 337,
+        "ultraKills": 242,
+        "timeInMatches": 47409094,
+        "portWins": 103,
+        "hangarWins": 78,
+        "jailWins": 0,
+        "dangerousSouthWins": 11
     }
 }
