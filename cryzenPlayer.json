@@ -3,10 +3,10 @@
     "subId": "4ca11352-cdfe-4d64-bed6-d840d1558651",
     "name": "TheMasterRob4ig",
     "canChangeName": false,
-    "lvl": 21,
-    "exp": 37910,
-    "expSinceLastLvl": 85,
-    "expUntilNextLvl": 3350,
+    "lvl": 28,
+    "exp": 64449,
+    "expSinceLastLvl": 1599,
+    "expUntilNextLvl": 3875,
     "achievements": {
         "emblems": [
             {
@@ -61,42 +61,54 @@
             },
             {
                 "id": "33",
+                "isSelected": false
+            },
+            {
+                "id": "34",
                 "isSelected": true
             }
         ]
     },
     "balance": {
-        "diamit": 100,
+        "diamit": 0,
         "gear": 0,
-        "terra": 514,
-        "credit": 305
+        "terra": 83,
+        "credit": 2
     },
     "earlyAccess": true,
     "role": "User",
     "createdAt": "2023-06-21T02:36:08.201Z",
-    "updatedAt": "2023-09-08T18:03:13.491Z",
+    "updatedAt": "2023-11-08T15:00:27.522Z",
     "__v": 0,
-    "lastCreditReceived": "2023-09-08T13:37:23.043Z",
+    "lastCreditReceived": "2023-11-08T15:00:08.975Z",
+    "boughtNewbiePack": false,
     "stats": {
-        "games": 289,
-        "wins": 192,
-        "scores": 302760,
-        "kills": 4069,
-        "deaths": 1147,
-        "assists": 247,
-        "headshots": 2990,
+        "games": 499,
+        "wins": 347,
+        "scores": 536130,
+        "kills": 7152,
+        "deaths": 1781,
+        "assists": 418,
+        "headshots": 5298,
         "scopeKills": 0,
-        "sniperScopeKills": 119,
-        "jumpKills": 200,
-        "doubleKills": 761,
-        "tripleKills": 567,
-        "quadKills": 439,
-        "multiKills": 337,
-        "ultraKills": 242,
-        "timeInMatches": 47409094,
-        "portWins": 103,
-        "hangarWins": 78,
-        "jailWins": 0,
-        "dangerousSouthWins": 11
+        "sniperScopeKills": 129,
+        "jumpKills": 318,
+        "knifeKills": 0,
+        "doubleKills": 1304,
+        "tripleKills": 1005,
+        "quadKills": 790,
+        "multiKills": 597,
+        "ultraKills": 442,
+        "akmKills": 0,
+        "awmKills": 0,
+        "mossbergKills": 0,
+        "krissVectorKills": 0,
+        "mp5Kills": 141,
+        "glock19Kills": 1,
+        "timeInMatches": 78879155,
+        "portWins": 154,
+        "hangarWins": 128,
+        "jailWins": 7,
+        "dangerousSouthWins": 58
     }
 }
