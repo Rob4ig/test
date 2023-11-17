@@ -1,0 +1,315 @@
+{
+    "success": true,
+    "data": {
+        "time": "2023-11-13T01:05:23.722Z",
+        "duration": 1020,
+        "map_name": "Bulwark",
+        "team1": {
+            "score": 73,
+            "players": [
+                {
+                    "has_nickname": true,
+                    "nickname": "MR_DOLPHIN",
+                    "team": 1,
+                    "kills": 3,
+                    "deaths": 7,
+                    "captures": 0,
+                    "score": 57
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#073",
+                    "team": 1,
+                    "kills": 0,
+                    "deaths": 5,
+                    "captures": 0,
+                    "score": 0
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "CheeseSoldier",
+                    "team": 1,
+                    "kills": 1,
+                    "deaths": 2,
+                    "captures": 0,
+                    "score": 22
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#052",
+                    "team": 1,
+                    "kills": 0,
+                    "deaths": 1,
+                    "captures": 0,
+                    "score": 0
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "DEMONRUP",
+                    "team": 1,
+                    "kills": 0,
+                    "deaths": 1,
+                    "captures": 0,
+                    "score": 0
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "Gordoxgfhhxh",
+                    "team": 1,
+                    "kills": 0,
+                    "deaths": 1,
+                    "captures": 0,
+                    "score": 2
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "_EDEX",
+                    "team": 1,
+                    "kills": 6,
+                    "deaths": 4,
+                    "captures": 0,
+                    "score": 93
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "SargeantAli12",
+                    "team": 1,
+                    "kills": 4,
+                    "deaths": 0,
+                    "captures": 0,
+                    "score": 75
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#203",
+                    "team": 1,
+                    "kills": 1,
+                    "deaths": 3,
+                    "captures": 0,
+                    "score": 10
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "SonicGod3098",
+                    "team": 1,
+                    "kills": 6,
+                    "deaths": 4,
+                    "captures": 0,
+                    "score": 110
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "DrewRocket_X",
+                    "team": 1,
+                    "kills": 3,
+                    "deaths": 2,
+                    "captures": 0,
+                    "score": 44
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "Dadsusernameforvox",
+                    "team": 1,
+                    "kills": 9,
+                    "deaths": 4,
+                    "captures": 0,
+                    "score": 125
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#331",
+                    "team": 1,
+                    "kills": 8,
+                    "deaths": 3,
+                    "captures": 0,
+                    "score": 121
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "NNNOOO",
+                    "team": 1,
+                    "kills": 14,
+                    "deaths": 6,
+                    "captures": 0,
+                    "score": 262
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#384",
+                    "team": 1,
+                    "kills": 2,
+                    "deaths": 3,
+                    "captures": 0,
+                    "score": 25
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#090",
+                    "team": 1,
+                    "kills": 0,
+                    "deaths": 3,
+                    "captures": 0,
+                    "score": 0
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "Pro5690",
+                    "team": 1,
+                    "kills": 4,
+                    "deaths": 8,
+                    "captures": 0,
+                    "score": 76
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "WhispersBolt",
+                    "team": 1,
+                    "kills": 12,
+                    "deaths": 3,
+                    "captures": 0,
+                    "score": 238
+                }
+            ]
+        },
+        "team2": {
+            "score": 119,
+            "players": [
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#333",
+                    "team": 2,
+                    "kills": 0,
+                    "deaths": 4,
+                    "captures": 0,
+                    "score": 102
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "Vatalisy",
+                    "team": 2,
+                    "kills": 7,
+                    "deaths": 6,
+                    "captures": 0,
+                    "score": 191
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#196",
+                    "team": 2,
+                    "kills": 11,
+                    "deaths": 4,
+                    "captures": 0,
+                    "score": 255
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#273",
+                    "team": 2,
+                    "kills": 3,
+                    "deaths": 5,
+                    "captures": 0,
+                    "score": 162
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#155",
+                    "team": 2,
+                    "kills": 4,
+                    "deaths": 7,
+                    "captures": 0,
+                    "score": 151
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "DragoXD",
+                    "team": 2,
+                    "kills": 8,
+                    "deaths": 2,
+                    "captures": 0,
+                    "score": 245
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#110",
+                    "team": 2,
+                    "kills": 0,
+                    "deaths": 2,
+                    "captures": 0,
+                    "score": 0
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "Napoleon122",
+                    "team": 2,
+                    "kills": 8,
+                    "deaths": 10,
+                    "captures": 0,
+                    "score": 226
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#018",
+                    "team": 2,
+                    "kills": 0,
+                    "deaths": 7,
+                    "captures": 0,
+                    "score": 0
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#070",
+                    "team": 2,
+                    "kills": 0,
+                    "deaths": 1,
+                    "captures": 0,
+                    "score": 0
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#024",
+                    "team": 2,
+                    "kills": 2,
+                    "deaths": 7,
+                    "captures": 0,
+                    "score": 144
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "Asuka_The_epmress",
+                    "team": 2,
+                    "kills": 5,
+                    "deaths": 5,
+                    "captures": 0,
+                    "score": 172
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "_50nysaur10_",
+                    "team": 2,
+                    "kills": 6,
+                    "deaths": 8,
+                    "captures": 0,
+                    "score": 116
+                },
+                {
+                    "has_nickname": false,
+                    "nickname": "Soldier#074",
+                    "team": 2,
+                    "kills": 0,
+                    "deaths": 5,
+                    "captures": 0,
+                    "score": 102
+                },
+                {
+                    "has_nickname": true,
+                    "nickname": "Soldier_129",
+                    "team": 2,
+                    "kills": 5,
+                    "deaths": 3,
+                    "captures": 2,
+                    "score": 654
+                }
+            ]
+        }
+    }
+}
