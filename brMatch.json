@@ -1,0 +1,189 @@
+{
+    "success": true,
+    "data": {
+        "time": "2023-09-13T12:03:29.782Z",
+        "duration": 362,
+        "players": [
+            {
+                "has_nickname": true,
+                "nickname": "gtrxAC",
+                "rank": 1,
+                "kills": 3,
+                "deaths": 0,
+                "survival_time": 362,
+                "score": 602
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#035",
+                "rank": 2,
+                "kills": 3,
+                "deaths": 1,
+                "survival_time": 362,
+                "score": 369
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#069",
+                "rank": 3,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 300,
+                "score": 160
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#045",
+                "rank": 4,
+                "kills": 2,
+                "deaths": 1,
+                "survival_time": 251,
+                "score": 70
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#108",
+                "rank": 5,
+                "kills": 3,
+                "deaths": 1,
+                "survival_time": 239,
+                "score": 84
+            },
+            {
+                "has_nickname": true,
+                "nickname": "abu_al_analraiskar",
+                "rank": 6,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 203,
+                "score": 40
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#031",
+                "rank": 7,
+                "kills": 1,
+                "deaths": 0,
+                "survival_time": 169,
+                "score": 43
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#049",
+                "rank": 8,
+                "kills": 2,
+                "deaths": 1,
+                "survival_time": 160,
+                "score": 57
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#097",
+                "rank": 9,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 133,
+                "score": 26
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#030",
+                "rank": 10,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 132,
+                "score": 26
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#032",
+                "rank": 11,
+                "kills": 0,
+                "deaths": 0,
+                "survival_time": 127,
+                "score": 25
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#002",
+                "rank": 12,
+                "kills": 2,
+                "deaths": 1,
+                "survival_time": 111,
+                "score": 72
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#026",
+                "rank": 13,
+                "kills": 1,
+                "deaths": 1,
+                "survival_time": 103,
+                "score": 40
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#067",
+                "rank": 14,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 81,
+                "score": 16
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#102",
+                "rank": 15,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 79,
+                "score": 15
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#033",
+                "rank": 16,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 68,
+                "score": 13
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#006",
+                "rank": 17,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 63,
+                "score": 12
+            },
+            {
+                "has_nickname": true,
+                "nickname": "Pliszka",
+                "rank": 18,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 42,
+                "score": 8
+            },
+            {
+                "has_nickname": false,
+                "nickname": "Soldier#101",
+                "rank": 19,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 32,
+                "score": 6
+            },
+            {
+                "has_nickname": true,
+                "nickname": "CocaCoLaVanilla",
+                "rank": 20,
+                "kills": 0,
+                "deaths": 1,
+                "survival_time": 25,
+                "score": 5
+            }
+        ]
+    }
+}
