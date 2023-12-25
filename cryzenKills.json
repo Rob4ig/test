@@ -1,1 +1,820 @@
-
+{
+    "todayResetAt": 1703548800,
+    "weekResetAt": 1704067200,
+    "today": [
+        {
+            "userId": "649c910aecf20042fd45dcfc",
+            "scores": 68465,
+            "kills": 835,
+            "deaths": 109,
+            "wins": 28,
+            "lvl": 30,
+            "name": "clean"
+        },
+        {
+            "userId": "64af475a1eb30661e00cbcc8",
+            "scores": 54100,
+            "kills": 709,
+            "deaths": 146,
+            "wins": 34,
+            "lvl": 54,
+            "name": "Flux"
+        },
+        {
+            "userId": "647df6388e91651130ac49b3",
+            "scores": 28290,
+            "kills": 404,
+            "deaths": 155,
+            "wins": 14,
+            "lvl": 33,
+            "name": "AdelNorberg"
+        },
+        {
+            "userId": "6565de4d39affc3d156288a5",
+            "scores": 21825,
+            "kills": 342,
+            "deaths": 214,
+            "wins": 17,
+            "lvl": 20,
+            "name": "mugi"
+        },
+        {
+            "userId": "650a6329fae8a603f6a92293",
+            "scores": 22885,
+            "kills": 305,
+            "deaths": 67,
+            "wins": 16,
+            "lvl": 45,
+            "name": "Suigetsu"
+        },
+        {
+            "userId": "6513a057fae8a603f6c2d8b9",
+            "scores": 17865,
+            "kills": 241,
+            "deaths": 67,
+            "wins": 12,
+            "lvl": 54,
+            "name": "yeldardes"
+        },
+        {
+            "userId": "651e9bf8fae8a603f6db0a0e",
+            "scores": 13585,
+            "kills": 230,
+            "deaths": 214,
+            "wins": 11,
+            "lvl": 11,
+            "name": "aoi_kousei"
+        },
+        {
+            "userId": "652ab5354bf91be9ac328ad4",
+            "scores": 13160,
+            "kills": 189,
+            "deaths": 92,
+            "wins": 8,
+            "lvl": 10,
+            "name": "cykihoxic"
+        },
+        {
+            "userId": "656c11bf5788ddd9b449e7e0",
+            "scores": 12025,
+            "kills": 181,
+            "deaths": 131,
+            "wins": 7,
+            "lvl": 6,
+            "name": "uuuuuuuuuuuuuuma"
+        },
+        {
+            "userId": "64ee6da62bb9f1e785b16ca6",
+            "scores": 10440,
+            "kills": 162,
+            "deaths": 104,
+            "wins": 12,
+            "lvl": 11,
+            "name": "szu_6s"
+        },
+        {
+            "userId": "656b15515788ddd9b448b357",
+            "scores": 10865,
+            "kills": 160,
+            "deaths": 56,
+            "wins": 7,
+            "lvl": 17,
+            "name": "JesusChrist"
+        },
+        {
+            "userId": "6588b9ca669f8b78e451f12e",
+            "scores": 9860,
+            "kills": 153,
+            "deaths": 102,
+            "wins": 6,
+            "lvl": 5,
+            "name": "user#DRBPFS"
+        },
+        {
+            "userId": "657dfe7e82d5757a6a2d893e",
+            "scores": 8195,
+            "kills": 138,
+            "deaths": 203,
+            "wins": 9,
+            "lvl": 16,
+            "name": "Dkxel"
+        },
+        {
+            "userId": "658918bc669f8b78e4524293",
+            "scores": 8295,
+            "kills": 132,
+            "deaths": 154,
+            "wins": 8,
+            "lvl": 4,
+            "name": "qaws"
+        },
+        {
+            "userId": "65042fab72ffc391cc98377b",
+            "scores": 9850,
+            "kills": 132,
+            "deaths": 35,
+            "wins": 6,
+            "lvl": 103,
+            "name": "shkibidimen"
+        },
+        {
+            "userId": "65612ab839affc3d155bf264",
+            "scores": 8395,
+            "kills": 123,
+            "deaths": 50,
+            "wins": 8,
+            "lvl": 32,
+            "name": "Roxanne"
+        },
+        {
+            "userId": "6562081939affc3d155cfab9",
+            "scores": 7305,
+            "kills": 116,
+            "deaths": 85,
+            "wins": 5,
+            "lvl": 25,
+            "name": "YUA+"
+        },
+        {
+            "userId": "64ffe8bb72ffc391cc899976",
+            "scores": 7120,
+            "kills": 113,
+            "deaths": 107,
+            "wins": 6,
+            "lvl": 56,
+            "name": "sultan2310$"
+        },
+        {
+            "userId": "6563490339affc3d155e8b6c",
+            "scores": 6830,
+            "kills": 111,
+            "deaths": 86,
+            "wins": 6,
+            "lvl": 21,
+            "name": "menma"
+        },
+        {
+            "userId": "6580b28982d5757a6a30fac6",
+            "scores": 5315,
+            "kills": 87,
+            "deaths": 107,
+            "wins": 6,
+            "lvl": 10,
+            "name": "SerpentsG3946"
+        },
+        {
+            "userId": "65895b86669f8b78e4528647",
+            "scores": 5680,
+            "kills": 85,
+            "deaths": 36,
+            "wins": 3,
+            "lvl": 3,
+            "name": "FORESTER"
+        },
+        {
+            "userId": "64a3b0240baa50fbbf383cee",
+            "scores": 5385,
+            "kills": 85,
+            "deaths": 63,
+            "wins": 7,
+            "lvl": 11,
+            "name": "walme"
+        },
+        {
+            "userId": "6523478b4bf91be9ac2524e6",
+            "scores": 5670,
+            "kills": 81,
+            "deaths": 33,
+            "wins": 5,
+            "lvl": 37,
+            "name": "user#KDK88O"
+        },
+        {
+            "userId": "6559acd239affc3d15509152",
+            "scores": 4790,
+            "kills": 80,
+            "deaths": 77,
+            "wins": 5,
+            "lvl": 10,
+            "name": "nekosuki"
+        },
+        {
+            "userId": "64f0b615020de6f65d184236",
+            "scores": 5400,
+            "kills": 77,
+            "deaths": 21,
+            "wins": 1,
+            "lvl": 104,
+            "name": "Myrrr"
+        },
+        {
+            "userId": "655c738039affc3d15548909",
+            "scores": 4910,
+            "kills": 72,
+            "deaths": 35,
+            "wins": 3,
+            "lvl": 28,
+            "name": "mikilop"
+        },
+        {
+            "userId": "658806e8a37a3e3a2e689e67",
+            "scores": 4080,
+            "kills": 71,
+            "deaths": 150,
+            "wins": 8,
+            "lvl": 5,
+            "name": "user#DL62T7"
+        },
+        {
+            "userId": "649cea5becf20042fd460089",
+            "scores": 5170,
+            "kills": 71,
+            "deaths": 23,
+            "wins": 4,
+            "lvl": 17,
+            "name": "Insert"
+        },
+        {
+            "userId": "64f923607865b5d442e99a24",
+            "scores": 3995,
+            "kills": 67,
+            "deaths": 83,
+            "wins": 5,
+            "lvl": 12,
+            "name": "user#GG517N"
+        },
+        {
+            "userId": "6574250c5788ddd9b4581100",
+            "scores": 4385,
+            "kills": 66,
+            "deaths": 54,
+            "wins": 4,
+            "lvl": 15,
+            "name": "Zorba"
+        }
+    ],
+    "week": [
+        {
+            "userId": "649c910aecf20042fd45dcfc",
+            "scores": 68465,
+            "kills": 835,
+            "deaths": 109,
+            "wins": 28,
+            "lvl": 30,
+            "name": "clean"
+        },
+        {
+            "userId": "64af475a1eb30661e00cbcc8",
+            "scores": 54100,
+            "kills": 709,
+            "deaths": 146,
+            "wins": 34,
+            "lvl": 54,
+            "name": "Flux"
+        },
+        {
+            "userId": "647df6388e91651130ac49b3",
+            "scores": 28290,
+            "kills": 404,
+            "deaths": 155,
+            "wins": 14,
+            "lvl": 33,
+            "name": "AdelNorberg"
+        },
+        {
+            "userId": "6565de4d39affc3d156288a5",
+            "scores": 21825,
+            "kills": 342,
+            "deaths": 214,
+            "wins": 17,
+            "lvl": 20,
+            "name": "mugi"
+        },
+        {
+            "userId": "650a6329fae8a603f6a92293",
+            "scores": 22885,
+            "kills": 305,
+            "deaths": 67,
+            "wins": 16,
+            "lvl": 45,
+            "name": "Suigetsu"
+        },
+        {
+            "userId": "6513a057fae8a603f6c2d8b9",
+            "scores": 17865,
+            "kills": 241,
+            "deaths": 67,
+            "wins": 12,
+            "lvl": 54,
+            "name": "yeldardes"
+        },
+        {
+            "userId": "651e9bf8fae8a603f6db0a0e",
+            "scores": 13585,
+            "kills": 230,
+            "deaths": 214,
+            "wins": 11,
+            "lvl": 11,
+            "name": "aoi_kousei"
+        },
+        {
+            "userId": "652ab5354bf91be9ac328ad4",
+            "scores": 13160,
+            "kills": 189,
+            "deaths": 92,
+            "wins": 8,
+            "lvl": 10,
+            "name": "cykihoxic"
+        },
+        {
+            "userId": "656c11bf5788ddd9b449e7e0",
+            "scores": 12025,
+            "kills": 181,
+            "deaths": 131,
+            "wins": 7,
+            "lvl": 6,
+            "name": "uuuuuuuuuuuuuuma"
+        },
+        {
+            "userId": "64ee6da62bb9f1e785b16ca6",
+            "scores": 10440,
+            "kills": 162,
+            "deaths": 104,
+            "wins": 12,
+            "lvl": 11,
+            "name": "szu_6s"
+        },
+        {
+            "userId": "656b15515788ddd9b448b357",
+            "scores": 10865,
+            "kills": 160,
+            "deaths": 56,
+            "wins": 7,
+            "lvl": 17,
+            "name": "JesusChrist"
+        },
+        {
+            "userId": "6588b9ca669f8b78e451f12e",
+            "scores": 9860,
+            "kills": 153,
+            "deaths": 102,
+            "wins": 6,
+            "lvl": 5,
+            "name": "user#DRBPFS"
+        },
+        {
+            "userId": "657dfe7e82d5757a6a2d893e",
+            "scores": 8195,
+            "kills": 138,
+            "deaths": 203,
+            "wins": 9,
+            "lvl": 16,
+            "name": "Dkxel"
+        },
+        {
+            "userId": "658918bc669f8b78e4524293",
+            "scores": 8295,
+            "kills": 132,
+            "deaths": 154,
+            "wins": 8,
+            "lvl": 4,
+            "name": "qaws"
+        },
+        {
+            "userId": "65042fab72ffc391cc98377b",
+            "scores": 9850,
+            "kills": 132,
+            "deaths": 35,
+            "wins": 6,
+            "lvl": 103,
+            "name": "shkibidimen"
+        },
+        {
+            "userId": "65612ab839affc3d155bf264",
+            "scores": 8395,
+            "kills": 123,
+            "deaths": 50,
+            "wins": 8,
+            "lvl": 32,
+            "name": "Roxanne"
+        },
+        {
+            "userId": "6562081939affc3d155cfab9",
+            "scores": 7305,
+            "kills": 116,
+            "deaths": 85,
+            "wins": 5,
+            "lvl": 25,
+            "name": "YUA+"
+        },
+        {
+            "userId": "64ffe8bb72ffc391cc899976",
+            "scores": 7120,
+            "kills": 113,
+            "deaths": 107,
+            "wins": 6,
+            "lvl": 56,
+            "name": "sultan2310$"
+        },
+        {
+            "userId": "6563490339affc3d155e8b6c",
+            "scores": 6830,
+            "kills": 111,
+            "deaths": 86,
+            "wins": 6,
+            "lvl": 21,
+            "name": "menma"
+        },
+        {
+            "userId": "6580b28982d5757a6a30fac6",
+            "scores": 5315,
+            "kills": 87,
+            "deaths": 107,
+            "wins": 6,
+            "lvl": 10,
+            "name": "SerpentsG3946"
+        },
+        {
+            "userId": "65895b86669f8b78e4528647",
+            "scores": 5680,
+            "kills": 85,
+            "deaths": 36,
+            "wins": 3,
+            "lvl": 3,
+            "name": "FORESTER"
+        },
+        {
+            "userId": "64a3b0240baa50fbbf383cee",
+            "scores": 5385,
+            "kills": 85,
+            "deaths": 63,
+            "wins": 7,
+            "lvl": 11,
+            "name": "walme"
+        },
+        {
+            "userId": "6523478b4bf91be9ac2524e6",
+            "scores": 5670,
+            "kills": 81,
+            "deaths": 33,
+            "wins": 5,
+            "lvl": 37,
+            "name": "user#KDK88O"
+        },
+        {
+            "userId": "6559acd239affc3d15509152",
+            "scores": 4790,
+            "kills": 80,
+            "deaths": 77,
+            "wins": 5,
+            "lvl": 10,
+            "name": "nekosuki"
+        },
+        {
+            "userId": "64f0b615020de6f65d184236",
+            "scores": 5400,
+            "kills": 77,
+            "deaths": 21,
+            "wins": 1,
+            "lvl": 104,
+            "name": "Myrrr"
+        },
+        {
+            "userId": "655c738039affc3d15548909",
+            "scores": 4910,
+            "kills": 72,
+            "deaths": 35,
+            "wins": 3,
+            "lvl": 28,
+            "name": "mikilop"
+        },
+        {
+            "userId": "658806e8a37a3e3a2e689e67",
+            "scores": 4080,
+            "kills": 71,
+            "deaths": 150,
+            "wins": 8,
+            "lvl": 5,
+            "name": "user#DL62T7"
+        },
+        {
+            "userId": "649cea5becf20042fd460089",
+            "scores": 5170,
+            "kills": 71,
+            "deaths": 23,
+            "wins": 4,
+            "lvl": 17,
+            "name": "Insert"
+        },
+        {
+            "userId": "64f923607865b5d442e99a24",
+            "scores": 3995,
+            "kills": 67,
+            "deaths": 83,
+            "wins": 5,
+            "lvl": 12,
+            "name": "user#GG517N"
+        },
+        {
+            "userId": "6574250c5788ddd9b4581100",
+            "scores": 4385,
+            "kills": 66,
+            "deaths": 54,
+            "wins": 4,
+            "lvl": 15,
+            "name": "Zorba"
+        }
+    ],
+    "all": [
+        {
+            "userId": "64f0b615020de6f65d184236",
+            "name": "Myrrr",
+            "scores": 3871795,
+            "kills": 50368,
+            "deaths": 10669,
+            "wins": 2427,
+            "lvl": 104
+        },
+        {
+            "userId": "65042fab72ffc391cc98377b",
+            "name": "shkibidimen",
+            "scores": 2813110,
+            "kills": 40116,
+            "deaths": 13925,
+            "wins": 2002,
+            "lvl": 103
+        },
+        {
+            "userId": "64921e93578386adbd36e6ae",
+            "name": "EDEX",
+            "scores": 2577420,
+            "kills": 35644,
+            "deaths": 10611,
+            "wins": 1766,
+            "lvl": 84
+        },
+        {
+            "userId": "64f745227865b5d442e0516a",
+            "name": "H4RLEY!",
+            "scores": 1966065,
+            "kills": 27057,
+            "deaths": 7558,
+            "wins": 1369,
+            "lvl": 70
+        },
+        {
+            "userId": "64f2f3850da7dae379acec65",
+            "name": "MAXUS",
+            "scores": 1763115,
+            "kills": 25966,
+            "deaths": 14764,
+            "wins": 1138,
+            "lvl": 76
+        },
+        {
+            "userId": "64af475a1eb30661e00cbcc8",
+            "name": "Flux",
+            "scores": 1800730,
+            "kills": 23602,
+            "deaths": 7141,
+            "wins": 917,
+            "lvl": 54
+        },
+        {
+            "userId": "6513a057fae8a603f6c2d8b9",
+            "name": "yeldardes",
+            "scores": 1326905,
+            "kills": 18522,
+            "deaths": 7099,
+            "wins": 871,
+            "lvl": 54
+        },
+        {
+            "userId": "651ff1dcfae8a603f6ddfcca",
+            "name": "SOKACHU",
+            "scores": 1212140,
+            "kills": 16900,
+            "deaths": 5518,
+            "wins": 862,
+            "lvl": 49
+        },
+        {
+            "userId": "64ffe8bb72ffc391cc899976",
+            "name": "sultan2310$",
+            "scores": 1045595,
+            "kills": 16589,
+            "deaths": 13053,
+            "wins": 725,
+            "lvl": 56
+        },
+        {
+            "userId": "6507640cfae8a603f69fc688",
+            "name": "BURP",
+            "scores": 1188425,
+            "kills": 16547,
+            "deaths": 5682,
+            "wins": 780,
+            "lvl": 48
+        },
+        {
+            "userId": "64ff5f9472ffc391cc883bba",
+            "name": "X-Men",
+            "scores": 1111635,
+            "kills": 15459,
+            "deaths": 5019,
+            "wins": 769,
+            "lvl": 52
+        },
+        {
+            "userId": "64fde0c172ffc391cc839684",
+            "name": "montronto",
+            "scores": 1008055,
+            "kills": 14404,
+            "deaths": 6408,
+            "wins": 576,
+            "lvl": 45
+        },
+        {
+            "userId": "650a6329fae8a603f6a92293",
+            "name": "Suigetsu",
+            "scores": 996635,
+            "kills": 14081,
+            "deaths": 4598,
+            "wins": 697,
+            "lvl": 45
+        },
+        {
+            "userId": "6508e309fae8a603f6a4119e",
+            "name": "rclam",
+            "scores": 899215,
+            "kills": 13264,
+            "deaths": 6914,
+            "wins": 668,
+            "lvl": 51
+        },
+        {
+            "userId": "64f390710da7dae379af0c3d",
+            "name": "Superkevin",
+            "scores": 859815,
+            "kills": 13262,
+            "deaths": 5941,
+            "wins": 585,
+            "lvl": 46
+        },
+        {
+            "userId": "650dd2ebfae8a603f6b53ea7",
+            "name": "doctor",
+            "scores": 932590,
+            "kills": 12142,
+            "deaths": 2781,
+            "wins": 630,
+            "lvl": 40
+        },
+        {
+            "userId": "6505bff872ffc391cc9da5f2",
+            "name": "HARDIK",
+            "scores": 877070,
+            "kills": 12122,
+            "deaths": 4393,
+            "wins": 569,
+            "lvl": 42
+        },
+        {
+            "userId": "6523478b4bf91be9ac2524e6",
+            "name": "user#KDK88O",
+            "scores": 899010,
+            "kills": 11951,
+            "deaths": 2792,
+            "wins": 556,
+            "lvl": 37
+        },
+        {
+            "userId": "64f2f4990da7dae379acef76",
+            "name": "Guest_11",
+            "scores": 1079285,
+            "kills": 11831,
+            "deaths": 279,
+            "wins": 356,
+            "lvl": 25
+        },
+        {
+            "userId": "656f86315788ddd9b44faeb1",
+            "name": "ALIVE",
+            "scores": 680885,
+            "kills": 11184,
+            "deaths": 7474,
+            "wins": 517,
+            "lvl": 40
+        },
+        {
+            "userId": "649c910aecf20042fd45dcfc",
+            "name": "clean",
+            "scores": 859895,
+            "kills": 10818,
+            "deaths": 1812,
+            "wins": 487,
+            "lvl": 30
+        },
+        {
+            "userId": "656909a8e741088b5e5d2ad1",
+            "name": "Gosiaczek",
+            "scores": 620790,
+            "kills": 10038,
+            "deaths": 6253,
+            "wins": 487,
+            "lvl": 39
+        },
+        {
+            "userId": "64f257b30da7dae379aafdcd",
+            "name": "user#QMQG88",
+            "scores": 592455,
+            "kills": 9385,
+            "deaths": 7747,
+            "wins": 402,
+            "lvl": 43
+        },
+        {
+            "userId": "64faf4937865b5d442f12ba1",
+            "name": "qp_u_3_u_k",
+            "scores": 654905,
+            "kills": 9255,
+            "deaths": 3252,
+            "wins": 403,
+            "lvl": 34
+        },
+        {
+            "userId": "651db4d3fae8a603f6d9958a",
+            "name": "thefear",
+            "scores": 584335,
+            "kills": 8968,
+            "deaths": 4601,
+            "wins": 388,
+            "lvl": 38
+        },
+        {
+            "userId": "652d64334bf91be9ac375f28",
+            "name": "LATOURE51",
+            "scores": 608480,
+            "kills": 8855,
+            "deaths": 3579,
+            "wins": 388,
+            "lvl": 36
+        },
+        {
+            "userId": "65287b474bf91be9ac2efd57",
+            "name": "PlayerNoob#2023",
+            "scores": 599080,
+            "kills": 8605,
+            "deaths": 3695,
+            "wins": 434,
+            "lvl": 35
+        },
+        {
+            "userId": "64fde28972ffc391cc839c4c",
+            "name": "sxznnnnn",
+            "scores": 618535,
+            "kills": 8587,
+            "deaths": 3093,
+            "wins": 414,
+            "lvl": 34
+        },
+        {
+            "userId": "6544d508197638a10e7a2f80",
+            "name": "saint",
+            "scores": 620585,
+            "kills": 8435,
+            "deaths": 2480,
+            "wins": 425,
+            "lvl": 32
+        },
+        {
+            "userId": "64926218578386adbd36f8e4",
+            "name": "TheMasterRob4ig",
+            "scores": 624635,
+            "kills": 8302,
+            "deaths": 1980,
+            "wins": 409,
+            "lvl": 30
+        }
+    ]
+}
