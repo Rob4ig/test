@@ -4,8 +4,8 @@
     "name": "TheMasterRob4ig",
     "canChangeName": false,
     "lvl": 30,
-    "exp": 73763,
-    "expSinceLastLvl": 3088,
+    "exp": 74333,
+    "expSinceLastLvl": 3658,
     "expUntilNextLvl": 4000,
     "achievements": {
         "emblems": [
@@ -72,44 +72,65 @@
     "balance": {
         "diamit": 0,
         "gear": 0,
-        "terra": 98,
-        "credit": 44
+        "terra": 348,
+        "credit": 59
     },
     "earlyAccess": true,
     "role": "User",
     "createdAt": "2023-06-21T02:36:08.201Z",
-    "updatedAt": "2023-12-22T13:47:47.656Z",
+    "updatedAt": "2023-12-25T07:47:50.867Z",
     "__v": 0,
-    "lastCreditReceived": "2023-12-22T11:37:44.323Z",
+    "lastCreditReceived": "2023-12-25T07:47:50.865Z",
     "boughtNewbiePack": false,
     "stats": {
-        "games": 576,
-        "wins": 407,
-        "scores": 619360,
-        "kills": 8228,
-        "deaths": 1962,
-        "assists": 477,
-        "headshots": 6125,
+        "games": 581,
+        "wins": 409,
+        "scores": 624635,
+        "kills": 8302,
+        "deaths": 1980,
+        "assists": 481,
+        "headshots": 6176,
         "scopeKills": 0,
         "sniperScopeKills": 140,
-        "jumpKills": 368,
+        "jumpKills": 371,
         "knifeKills": 1,
-        "doubleKills": 1478,
-        "tripleKills": 1149,
-        "quadKills": 906,
-        "multiKills": 686,
-        "ultraKills": 514,
-        "akmKills": 1007,
+        "doubleKills": 1496,
+        "tripleKills": 1162,
+        "quadKills": 916,
+        "multiKills": 693,
+        "ultraKills": 518,
+        "akmKills": 1081,
         "awmKills": 32,
         "mossbergKills": 0,
         "krissVectorKills": 0,
         "mp5Kills": 167,
         "glock19Kills": 11,
-        "timeInMatches": 91074661,
-        "portWins": 162,
+        "m9Kills": 0,
+        "timeInMatches": 91755813,
+        "portWins": 163,
         "hangarWins": 150,
         "jailWins": 25,
         "dangerousSouthWins": 69,
-        "factoryWins": 1
+        "factoryWins": 2
+    },
+    "leaderboardRanks": {
+        "lvl": {
+            "all": 34
+        },
+        "scores": {
+            "day": 27,
+            "week": 27,
+            "all": 23
+        },
+        "kills": {
+            "day": 30,
+            "week": 30,
+            "all": 30
+        },
+        "wins": {
+            "day": 47,
+            "week": 47,
+            "all": 25
+        }
     }
 }
