@@ -3,10 +3,10 @@
     "subId": "4ca11352-cdfe-4d64-bed6-d840d1558651",
     "name": "TheMasterRob4ig",
     "canChangeName": false,
-    "lvl": 30,
-    "exp": 74333,
-    "expSinceLastLvl": 3658,
-    "expUntilNextLvl": 4000,
+    "lvl": 31,
+    "exp": 78576,
+    "expSinceLastLvl": 3901,
+    "expUntilNextLvl": 4050,
     "achievements": {
         "emblems": [
             {
@@ -72,64 +72,71 @@
     "balance": {
         "diamit": 0,
         "gear": 0,
-        "terra": 348,
-        "credit": 59
+        "terra": 37,
+        "credit": 49
     },
     "earlyAccess": true,
     "role": "User",
     "createdAt": "2023-06-21T02:36:08.201Z",
-    "updatedAt": "2023-12-25T07:47:50.867Z",
+    "updatedAt": "2024-01-08T18:02:38.456Z",
     "__v": 0,
-    "lastCreditReceived": "2023-12-25T07:47:50.865Z",
+    "lastCreditReceived": "2024-01-08T13:54:45.329Z",
     "boughtNewbiePack": false,
+    "adsLimit": {
+        "afterGame": {
+            "counter": 0,
+            "limit": 5
+        },
+        "time": "2024-01-08T13:54:42.271Z"
+    },
     "stats": {
-        "games": 581,
-        "wins": 409,
-        "scores": 624635,
-        "kills": 8302,
-        "deaths": 1980,
-        "assists": 481,
-        "headshots": 6176,
+        "games": 616,
+        "wins": 433,
+        "scores": 658550,
+        "kills": 8767,
+        "deaths": 2093,
+        "assists": 511,
+        "headshots": 6511,
         "scopeKills": 0,
         "sniperScopeKills": 140,
-        "jumpKills": 371,
+        "jumpKills": 394,
         "knifeKills": 1,
-        "doubleKills": 1496,
-        "tripleKills": 1162,
-        "quadKills": 916,
-        "multiKills": 693,
-        "ultraKills": 518,
-        "akmKills": 1081,
+        "doubleKills": 1598,
+        "tripleKills": 1238,
+        "quadKills": 972,
+        "multiKills": 731,
+        "ultraKills": 541,
+        "akmKills": 1525,
         "awmKills": 32,
         "mossbergKills": 0,
         "krissVectorKills": 0,
-        "mp5Kills": 167,
-        "glock19Kills": 11,
+        "mp5Kills": 185,
+        "glock19Kills": 14,
         "m9Kills": 0,
-        "timeInMatches": 91755813,
-        "portWins": 163,
-        "hangarWins": 150,
-        "jailWins": 25,
-        "dangerousSouthWins": 69,
-        "factoryWins": 2
+        "timeInMatches": 97579456,
+        "portWins": 170,
+        "hangarWins": 153,
+        "jailWins": 30,
+        "dangerousSouthWins": 76,
+        "factoryWins": 4
     },
     "leaderboardRanks": {
         "lvl": {
             "all": 34
         },
         "scores": {
-            "day": 27,
-            "week": 27,
-            "all": 23
+            "day": 59,
+            "week": 59,
+            "all": 24
         },
         "kills": {
-            "day": 30,
-            "week": 30,
+            "day": 71,
+            "week": 71,
             "all": 30
         },
         "wins": {
-            "day": 47,
-            "week": 47,
+            "day": 145,
+            "week": 145,
             "all": 25
         }
     }
